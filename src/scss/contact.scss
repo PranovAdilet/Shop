@@ -1,0 +1,69 @@
+.contact{
+  background: #FBF8EC;
+  padding: 27px 0 80px;
+  &__content{
+    &-top{
+      display: flex;
+      column-gap: 80px;
+    }
+    &-bot{
+      padding-top: 120px;
+    }
+  }
+  &__block{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    &-text{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 150%;
+      color: #414141;
+    }
+    &-text2{
+      text-decoration-line: underline;
+    }
+  }
+  &__bot{
+    display: flex;
+    column-gap: 80px;
+    margin-bottom: 32px;
+    &-block{
+      display: flex;
+      align-items: center;
+      column-gap: 10px;
+    }
+  }
+  &__top{
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+    &-phone{
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 150%;
+      text-decoration-line: underline;
+      color: #414141;
+      margin-left: 30px;
+    }
+    &-block{
+      display: flex;
+      column-gap: 10px;
+      align-items: center;
+    }
+    &-icon{
+      font-size: 22px;
+    }
+    &-text{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 150%;
+      color: #414141;
+
+    }
+  }
+
+}

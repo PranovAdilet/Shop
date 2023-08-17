@@ -1,0 +1,29 @@
+.first__section{
+  position: relative;
+  &-content{
+    display: flex;
+    column-gap: 18px;
+    align-items: center;
+  }
+  &-background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+    height: 230px;
+  }
+  &-img{
+    width: 360px;
+    height: 230px;
+  }
+  &-title{
+    font-family: 'Rubik',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 150%;
+    color: #414141;
+
+  }
+}

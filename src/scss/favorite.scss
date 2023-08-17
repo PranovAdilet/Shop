@@ -1,0 +1,14 @@
+.favorite{
+  background: #FBF8EC;
+  padding: 27px 0 120px;
+  &__title{
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 96px;
+    color: #414141;
+    margin: 27px 0 60px;
+  }
+  &__sort{
+    margin-top: 18px;
+  }
+}

@@ -1,0 +1,24 @@
+.search{
+  background: #FBF8EC;
+  padding: 80px 0;
+  &__title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    color: #414141;
+    margin-bottom: 47px;
+  }
+  &__text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #414141;
+    margin: 24px 0 40px;
+    &-search{
+      color: #FF6633;
+
+    }
+  }
+}

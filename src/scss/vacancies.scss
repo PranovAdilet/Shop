@@ -1,0 +1,53 @@
+.vacancies{
+  background: #FBF8EC;
+  padding: 27px 0 80px;
+  &__card{
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    width: calc(33% - 28px);
+    &-block{
+      display: flex;
+      flex-direction: column;
+      row-gap: 8px;
+    }
+    &-icon{
+      font-size: 25px;
+    }
+    &-phone{
+      display: flex;
+      column-gap: 13px;
+      align-items: center;
+    }
+    &-title{
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 150%;
+      color: #414141;
+    }
+    &-subtitle{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 150%;
+      color: #414141;
+    }
+    &-text{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 150%;
+      color: #414141;
+    }
+  }
+  &__row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+}

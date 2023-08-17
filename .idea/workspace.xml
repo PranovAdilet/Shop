@@ -1,8 +1,431 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0727dd10-35cb-46be-b64d-adf74d0de674" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/3chocolate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/agusha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/alm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/alpengoldarahis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/alpengoldmilk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/alpengoldsmor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/apples.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/biscvitnui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/bondi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/bulochki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/burn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/butter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/cabbage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/cola2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/colbasa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/combine1213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/combine1218.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/condensedMilk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/cucumbers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/eng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fanta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/flash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fruitNana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/gorilla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/j7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/kinder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/maccarons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/malutka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/milk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/mummy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/nan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/napoleon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/nareznoi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/nestle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/ovsyn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/palma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/pepper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/pepsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/piko.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/puncakes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/redbull.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rich.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/sold.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/solnechnui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/sosages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/sprite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/tomato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/varounaya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/yogurt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/yogurt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RatingItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/catalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popup/LogIn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popup/Popup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popup/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Ranges/RangePrice.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Ranges/RangesPrice.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Switch/Switch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Cards/colbasa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Cards/combine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Cards/milk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Cards/sosages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/about/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/about/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/actions/puncakes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/actions/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/articles/image 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/articles/image 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/articles/image 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/basket/Item (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/catalog/img9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/contact/market (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/contact/market (2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/contact/market (3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/contact/market.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filterProduct/Item (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filterProduct/Item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filterProduct/image (22).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filterProduct/image (23).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filterProduct/image (24).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filterProduct/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filterProduct/stars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/first__section/Sliders .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/first__section/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/vkontakte.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/zas.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/header/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/notfound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reviews/Star 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reviews/avatart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reviews/rating (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reviews/rating (2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reviews/rating (3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reviews/rating (4).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reviews/rating (5).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/specialOffers/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/specialOffers/Карта лояльности-10 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/About/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ActionPage/ActionPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ArticlesPage/ArticlesPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Basket/Basket.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Basket/Delivery.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/BoughtPage/BoughtPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/Catalog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/Catalog__content.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Contacts/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Favorite/Favorite.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Filter/Filter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/FilterProduct/AsProducts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/FilterProduct/FilterProduct.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/FilterProduct/Reviews.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Actions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Articles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Bought.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Novelties.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Shops.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/SpecialOffers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/first__section.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFound/NotFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NoveltiesPage/NoveltiesPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Order/Order.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Product.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Search/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Vacancies/Vacancies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/basket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/favorite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/userOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scrollTop.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/all.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/articles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/basket.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/catalog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/catalogMenu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/delivery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/favorite.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/filter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/filterProduct.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/first__section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/notFound.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/novelties.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/order.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/popup.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/products.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/reviews.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/scss.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/shops.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/specialOffer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/vacancies.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/use-auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/localdata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2FTiH8944fHIvBy4Mb6jYF62gIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\shop\src" />
+      <recent name="C:\Users\Admin\Desktop\shop\public\assets\fonts\Rubik" />
+      <recent name="C:\Users\Admin\Desktop\shop\public\assets" />
+      <recent name="C:\Users\Admin\Desktop\shop\src\images" />
+      <recent name="C:\Users\Admin\Desktop\shop\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\shop\src" />
+      <recent name="C:\Users\Admin\Desktop\shop\public\fonts" />
+      <recent name="C:\Users\Admin\Desktop\shop\public\assets\fonts" />
+      <recent name="C:\Users\Admin\Desktop\shop\src\pages\NotFound" />
+      <recent name="C:\Users\Admin\Desktop\shop\src\pages\Home" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0727dd10-35cb-46be-b64d-adf74d0de674" name="Default Changelist" comment="" />
+      <created>1664522383880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664522383880</updated>
+      <workItem from="1664522386494" duration="2476000" />
+      <workItem from="1664798449735" duration="3895000" />
+      <workItem from="1664881886702" duration="18304000" />
+      <workItem from="1664988400334" duration="7064000" />
+      <workItem from="1665049608610" duration="5763000" />
+      <workItem from="1665066156543" duration="1888000" />
+      <workItem from="1665122686545" duration="3144000" />
+      <workItem from="1665150366376" duration="7169000" />
+      <workItem from="1665313976487" duration="4918000" />
+      <workItem from="1665335833597" duration="3287000" />
+      <workItem from="1665410953907" duration="13443000" />
+      <workItem from="1665489937624" duration="9443000" />
+      <workItem from="1665511710164" duration="7247000" />
+      <workItem from="1665596247136" duration="2975000" />
+      <workItem from="1665633212257" duration="2351000" />
+      <workItem from="1665643464682" duration="5886000" />
+      <workItem from="1665683178083" duration="5482000" />
+      <workItem from="1665725664709" duration="500000" />
+      <workItem from="1665752221021" duration="6848000" />
+      <workItem from="1665759269252" duration="11410000" />
+      <workItem from="1665841965337" duration="9423000" />
+      <workItem from="1665854019767" duration="15135000" />
+      <workItem from="1665909992519" duration="11603000" />
+      <workItem from="1665931231161" duration="11684000" />
+      <workItem from="1666008815627" duration="13079000" />
+      <workItem from="1666022599371" duration="278000" />
+      <workItem from="1666068062920" duration="3471000" />
+      <workItem from="1666092882853" duration="13188000" />
+      <workItem from="1666159042084" duration="3103000" />
+      <workItem from="1666162545087" duration="9812000" />
+      <workItem from="1666176151946" duration="11624000" />
+      <workItem from="1666245972023" duration="15723000" />
+      <workItem from="1666332213522" duration="1107000" />
+      <workItem from="1666369454351" duration="9013000" />
+      <workItem from="1666716367356" duration="525000" />
+      <workItem from="1668084879299" duration="3100000" />
+      <workItem from="1668616686337" duration="1758000" />
+      <workItem from="1668619649441" duration="692000" />
+      <workItem from="1668848322629" duration="888000" />
+      <workItem from="1669181142920" duration="2857000" />
+      <workItem from="1669380199665" duration="2896000" />
+      <workItem from="1670480435291" duration="1167000" />
+      <workItem from="1672140287523" duration="2115000" />
+      <workItem from="1672293745853" duration="976000" />
+      <workItem from="1672649145708" duration="766000" />
+      <workItem from="1672850769135" duration="2090000" />
+      <workItem from="1672988722791" duration="945000" />
+      <workItem from="1673175350792" duration="2293000" />
+      <workItem from="1673344215332" duration="4288000" />
+      <workItem from="1673956810878" duration="3194000" />
+      <workItem from="1674674743692" duration="3570000" />
+      <workItem from="1674762374786" duration="1737000" />
+      <workItem from="1675000654904" duration="785000" />
+      <workItem from="1675253674577" duration="7293000" />
+      <workItem from="1675426199952" duration="6640000" />
+      <workItem from="1675795568745" duration="649000" />
+      <workItem from="1675860142278" duration="2344000" />
+      <workItem from="1676113371030" duration="9091000" />
+      <workItem from="1676448501014" duration="3248000" />
+      <workItem from="1676460956077" duration="4168000" />
+      <workItem from="1676881091829" duration="8345000" />
+      <workItem from="1676995057706" duration="5019000" />
+      <workItem from="1677051206240" duration="2888000" />
+      <workItem from="1677223025101" duration="3359000" />
+      <workItem from="1677323465853" duration="297000" />
+      <workItem from="1677323776435" duration="7379000" />
+      <workItem from="1677350984097" duration="7508000" />
+      <workItem from="1677407028369" duration="16524000" />
+      <workItem from="1677493250611" duration="7962000" />
+      <workItem from="1677663917182" duration="4536000" />
+      <workItem from="1677783276395" duration="596000" />
+      <workItem from="1677846611765" duration="5687000" />
+      <workItem from="1677955892680" duration="7872000" />
+      <workItem from="1678047006779" duration="2184000" />
+      <workItem from="1678112214876" duration="598000" />
+      <workItem from="1678130022373" duration="1918000" />
+      <workItem from="1678296507299" duration="5065000" />
+      <workItem from="1678625104992" duration="3107000" />
+      <workItem from="1678815412716" duration="595000" />
+      <workItem from="1679040596871" duration="253000" />
+      <workItem from="1679076785320" duration="620000" />
+      <workItem from="1679508353265" duration="7463000" />
+      <workItem from="1679598622356" duration="2962000" />
+      <workItem from="1679737174096" duration="259000" />
+      <workItem from="1679852983283" duration="2955000" />
+      <workItem from="1679984241043" duration="1732000" />
+      <workItem from="1680035818163" duration="1681000" />
+      <workItem from="1680116826851" duration="886000" />
+      <workItem from="1680153873909" duration="2974000" />
+      <workItem from="1680633628462" duration="990000" />
+      <workItem from="1681738466970" duration="1064000" />
+      <workItem from="1683831083198" duration="4939000" />
+      <workItem from="1683869259923" duration="1322000" />
+      <workItem from="1685299265524" duration="596000" />
+      <workItem from="1685478298953" duration="1134000" />
+      <workItem from="1686169792006" duration="1377000" />
+      <workItem from="1686243593736" duration="3291000" />
+      <workItem from="1686277667198" duration="471000" />
+      <workItem from="1686290252249" duration="422000" />
+      <workItem from="1686853247933" duration="254000" />
+      <workItem from="1687108914370" duration="668000" />
+      <workItem from="1687183746190" duration="602000" />
+      <workItem from="1687374867484" duration="2294000" />
+      <workItem from="1688407961877" duration="15000" />
+      <workItem from="1688408551453" duration="813000" />
+      <workItem from="1688735007020" duration="869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677416679926">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="526" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1677416679926" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1677439457970">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.816@0.0.1536.816" timestamp="1677439457970" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1677354446918">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1677354446918" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1674676905811" />
+    <state x="425" y="62" width="672" height="676" key="search.everywhere.popup" timestamp="1679510002071">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="62" width="672" height="676" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1679510002071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/Home/Actions.jsx</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/Catalog/Catalog.jsx</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/Filter/Filter.jsx</url>
+          <line>152</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/Filter/Filter.jsx</url>
+          <line>154</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/FilterProduct/FilterProduct.jsx</url>
+          <line>64</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

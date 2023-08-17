@@ -1,0 +1,129 @@
+.overlay{
+  position: fixed;
+  background: rgba(252, 213, 186, 0.8);
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: 10001;
+}
+.popup2{
+  display: none;
+  &_active{
+    display: block;
+  }
+}
+.popup1{
+  display: none;
+  &_active{
+    display: block;
+  }
+}
+.popup{
+  position: absolute;
+  width: 100%;
+  max-width: 420px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #FFFFFF;
+  box-shadow: 8px 16px 32px rgba(255, 102, 51, 0.2);
+  border-radius: 4px;
+  padding: 72px 0 40px;
+  &__btns{
+    display: flex;
+    column-gap: 15px;
+
+  }
+  &__form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  &__close{
+    position: absolute;
+    color: #414141;
+    top: 0;
+    right: 0;
+    font-size: 18px;
+    background: #F3F2F1;
+    border-radius: 4px;
+    padding: 5px 7px;
+    cursor: pointer;
+  }
+  &__btn{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #FF6633;
+    background: #FCD5BA;
+    border-radius: 4px;
+    padding: 12px 105px;
+    border: none;
+    outline: none;
+    margin: 32px 0;
+    &-signIn{
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 150%;
+      color: #414141;
+      margin-bottom: 25px;
+    }
+    &-signUp{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 150%;
+      color: #70C05B;
+      border: 1px solid #70C05B;
+      border-radius: 4px;
+      width: 121px;
+      height: 32px;
+      outline: none;
+      background: transparent;
+    }
+    &-signUp2{
+     padding: 12px 63px;
+    }
+    &-forget{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 150%;
+      color: #606060;
+      width: 123px;
+      height: 32px;
+      border-radius: 4px;
+      border: none;
+      outline: none;
+      background: transparent;
+    }
+  }
+
+  &__text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #8F8F8F;
+
+  }
+  &__input{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #414141;
+    width: 260px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 1px solid #70C05B;
+    box-shadow: 4px 8px 16px rgba(112, 192, 91, 0.2);
+    border-radius: 4px;
+    padding: 12px 16px;
+    outline: none;
+  }
+}

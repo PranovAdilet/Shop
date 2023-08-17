@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Rubik',sans-serif;
+    scroll-behavior: smooth;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1250px;
+    padding: 0 20px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+input[type="search"]::-webkit-search-cancel-button {
+    display: none;
+}
+
+
+
+
+
+@font-face {
+
+}
+@import "header";
+@import "first__section";
+@import "all";
+@import "products";
+@import "novelties";
+@import "actions";
+@import "specialOffer";
+@import "shops";
+@import "articles";
+@import "footer";
+@import "catalog";
+@import "filter";
+@import "filterProduct";
+@import "reviews";
+@import "vacancies";
+@import "order";
+@import "favorite";
+@import "basket";
+@import "delivery";
+@import "about";
+@import "contact";
+@import "catalogMenu";
+@import "media";
+@import "popup";
+@import "search";
+@import "pages";
+@import "notFound";

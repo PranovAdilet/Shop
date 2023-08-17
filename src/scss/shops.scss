@@ -1,0 +1,29 @@
+.shops{
+    &__list{
+      display: flex;
+      column-gap: 24px;
+      margin-bottom: 24px;
+    }
+  &__item{
+    border-radius: 4px;
+    background: #F3F2F1;
+    padding: 10px 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    color: #606060;
+    cursor: pointer;
+    &:hover{
+      background: #70C05B;
+      color: #FFFFFF;
+    }
+    &_active{
+      background: #70C05B;
+      color: #FFFFFF;
+    }
+  }
+  &__map{
+    width: 700px;
+  }
+}

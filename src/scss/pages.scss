@@ -1,0 +1,10 @@
+.noveltiesPage, .actionsPage, .boughtPage, .articlesPage{
+  background:  #fbf8ec;
+  padding: 27px 0 120px;
+  &__navigation {
+    display: flex;
+    column-gap: 25px;
+    align-items: center;
+    margin-bottom: 27px;
+  }
+}
